@@ -1,7 +1,7 @@
 # Red Hat AI Inference Server 在 Ubuntu + RTX 4090 上的完整部署指南
 
 启动一个本地AI推理服务器，支持GPU加速的模型服务
-
+(花费15分钟左右)
 ## 系统环境
 
 - **操作系统**: Ubuntu

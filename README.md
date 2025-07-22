@@ -7,7 +7,7 @@
 - **操作系统**: Ubuntu
 - **GPU**: RTX 4090 (24GB VRAM)
 - **容器运行时**: Docker 或者 Podman
-
+a
 ## 详细指南
 
 ### 1. 验证GPU状态
@@ -16,6 +16,8 @@
 # 检查GPU是否正常工作
 nvidia-smi
 ```
+
+> **注意**: 查看自己机器适合的 NVIDIA 驱动和 CUDA 版本，请参考 [NVIDIA驱动与CUDA版本兼容性表格.md](NVIDIA驱动与CUDA版本兼容性表格.md)
 
 ### 2. 验证Docker GPU支持
 

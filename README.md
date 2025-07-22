@@ -7,7 +7,7 @@
 - **操作系统**: Ubuntu
 - **GPU**: RTX 4090 (24GB VRAM)
 - **容器运行时**: Docker 或者 Podman
-a
+
 ## 详细指南
 
 ### 1. 验证GPU状态
